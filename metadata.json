@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS OS v8 - Remote Mobile Control & AI Vision",
+  "description": "Version 8 AI system featuring remote mobile device management, lock screen controls, gesture hand-tracking, optical hand pick-up object mission, continuous voice assistant, web search scraper, and real-time activity dashboard.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
